@@ -1,0 +1,9 @@
+EasyCrypt
+
+EasyCrypt is a port of an encryption algorithm developed in college. It’s by no means the best or most ideal means of encryption (at least not when compared to RSA, AES, SHA1, Blowfish etc), but it’s a basic encryption algorithm developed for simply showing students and adults alike how to go about writing their own encryption algorithm.
+
+The encryption algorithm is equipped with a encrypt/decrypt function. EasyCrypt is a substitution cipher (like ROT13 a simple variant of the Caesar Cipher used by Julius Ceasar to communicate with his generals)
+
+Post on EasyCrypt : http://pragmatic-coding.blogspot.com/2012/01/easycrypt.html
+
+
